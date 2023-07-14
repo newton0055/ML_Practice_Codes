@@ -10,7 +10,8 @@ This repository contains a collection of machine learning practice codes. The pu
 - [License](#license)
 
 ## Introduction
-Machine learning is a rapidly evolving field with various algorithms and techniques. This repository serves as a personal practice ground where I explore and implement different machine learning concepts, algorithms, and models. It allows me to sharpen my skills, experiment with new ideas, and gain practical experience in the field of machine learning.
+Machine learning is a rapidly evolving field with various algorithms and techniques. This repository serves as a personal practice ground where I explore and implement different machine learning concepts, algorithms, and models. It allows me to sharpen my skills, experiment with new ideas, and gain practical experience in the field of machine learning. Most of these practice codes are gotten from the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+by Aurélien Géron"
 
 ## Installation
 To use the codes in this repository, follow these steps:
